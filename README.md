@@ -1,16 +1,15 @@
-# tasks
+Flashcard App – Learn Smarter, Faster!
 
-A new Flutter project.
+This Flutter-based Flashcard App is a modern, interactive tool for learning and memorizing information efficiently. It allows users to flip through questions and answers with ease, making studying fun and engaging.
 
-## Getting Started
+Key Features:
 
-This project is a starting point for a Flutter application.
+Interactive Flashcards: Tap the card to flip between question and answer.
 
-A few resources to get you started if this is your first Flutter project:
+Multiple Flashcards: Navigate through a collection of questions using Next/Previous buttons.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Animated UI: Smooth transitions and gradient design for an appealing look.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+User-Friendly Design: Clean layout with responsive buttons and intuitive controls.
+
+Learning Anywhere: Perfect for quick revision or on-the-go study sessions
